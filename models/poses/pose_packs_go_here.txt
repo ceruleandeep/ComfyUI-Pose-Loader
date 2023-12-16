@@ -1,0 +1,1 @@
+Edit the `poses` key in `extra_model_paths.yaml` to change this location.
