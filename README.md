@@ -6,6 +6,13 @@ Allows you to batch-generate images from pose packs.
 Killer feature: you don't have to unzip the pose packs, just put them in a directory and go.
 Or let your CivitAI downloader put them there automatically.
 
+Other reasons that this exists:
+
+* reads OpenPose-annotated images and depth maps directly from zip files
+* filters out preview images and other junk, so your ControlNet only sees the poses 
+* turns your collection of pose packs and misc unsorted OpenPose pngs into a single source of poses
+* basically makes it easy to use your giant pile of poses with ComfyUI
+
 ![image](https://github.com/ceruleandeep/ComfyUI-Pose-Loader/assets/83318388/13cae6f6-e2ec-4823-824f-38eb1574a2a1)
 
 ## Installation
