@@ -6,6 +6,8 @@ Allows you to batch-generate images from pose packs.
 Killer feature: you don't have to unzip the pose packs, just put them in a directory and go.
 Or let your CivitAI downloader put them there automatically.
 
+![image](https://github.com/ceruleandeep/ComfyUI-Pose-Loader/assets/83318388/13cae6f6-e2ec-4823-824f-38eb1574a2a1)
+
 ## Installation
 
 ```cd ComfyUI/custom_nodes && git clone https://github.com/ceruleandeep/ComfyUI-Pose-Loader.git```
